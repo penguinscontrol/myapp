@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.18, created on 2014-02-03 17:45:26
+<?php /* Smarty version 2.6.18, created on 2014-02-05 23:52:39
          compiled from xataface/RelatedList/result_controller.html */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
 smarty_core_load_plugins(array('plugins' => array(array('modifier', 'escape', 'xataface/RelatedList/result_controller.html', 3, false),)), $this); ?>

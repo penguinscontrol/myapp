@@ -4,4 +4,5 @@ class tables_recordings {
 		return $record->val('a_file');
 	}
 }
+
 ?>
